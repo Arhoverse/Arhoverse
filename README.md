@@ -38,18 +38,18 @@
 
 ## 🌟 Projets en avant
 
-- 🚀 [Portfolio](https://github.com/Arhoverse/portfolio)  
-- 🥎 [ESA-Tennis club](https://github.com/Arhoverse/E.S-Arques-tennis)  
-- 📚 [Librairie](https://github.com/Arhoverse/library)
+- 🚀 [Portfolio](https://github.com/HenriMly/portfolio)  
+- 🥎 [ESA-Tennis club](https://github.com/HenriMly/E.S-Arques-tennis)  
+- 📚 [Librairie](https://github.com/HenriMly/library)
 
 ---
 
 ## 📊 Stats GitHub
 
-![Profile views](https://komarev.com/ghpvc/?username=Arhoverse&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=HenriMly&color=blue)
 
-![Henri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhoverse&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhoverse&layout=compact&theme=radical)  
+![Henri's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriMly&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMly&layout=compact&theme=radical)  
 
 ---
 
