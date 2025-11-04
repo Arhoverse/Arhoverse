@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Henri !  
 
-💻 Apprenti **développeur full stack** – 20 ans  
+💻 Apprenti **développeur full stack** – 21 ans  
 🚀 Passionné par le code, les projets web et la résolution de bugs 💨  
 
 ---
