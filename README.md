@@ -58,4 +58,3 @@
 - ✉️ **maillyhenri2004@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/henri-mailly-a72536252/)
 - 🚗 Métropole Lilloise  
-
